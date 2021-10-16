@@ -1,7 +1,7 @@
 ---
-title: "Example Portfolio"
-author: "Carole Voulgaris"
-date: "10/12/2021"
+title: "Spatial Analysis Final Portfolio"
+author: "Jaida B. Nabayan"
+date: "10/3/2021 (best day of the year <3)"
 output: 
   html_document:
     theme: cerulean
@@ -15,10 +15,10 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 # Introduction
-This is an example of a portfolio that someone might assemble to demonstrate the skills they have developed in VIS 2128. I have created this page using RMarkdown. There are fancier tools out there for creating and hosting webpages, and you are welcome to use any of those if you like. The advantage of this approach is that you can create your webpage directly from RStudio.
+This portfolio is a compilation of all maps produced in the course VIS 2128: Spatial Analysis. These maps cover major metropolitan regions like New York City, Philadelphia, Los Angeles, and Chicago. There were a total of 6 assignments, and there are maps tied to every assignment from the course.
 
 
-Your portfolio should demonstrate each of the following skills (not all of which are demonstrated in this example):
+My portfolio demonstrates an understanding of the following skills taught during the course:
 
 * Displaying multiple vector layers on the same map
 * Calculating and displaying relationships among point and polygon layers based on distance
@@ -36,15 +36,15 @@ This map shows the relationship between Enterprise Zones and transit stops in Ch
 
 [![](thumbnails/assignment1.png)](https://jnabayan.github.io/Final-Portfolio/fullsize/assignment1.pdf){target="_blank"}
 
-## ArcGIS Map (Assignment 2)
+# ArcGIS Map (Assignment 2)
 The assignment to create a georeferenced map with a layer of points was undertaken with New York City. This map demonstrates the following skill: 
 
 * Georeferencing a raster image
 
 [![](thumbnails/nycmap.png)](https://jnabayan.github.io/Final-Portfolio/fullsize/nycmap.pdf){target="_blank"}
 
-## Map of Massachusetts (Assignment 3)
-This assignment shows the point and polygon relationships of marine beaches, boat docking sites, shellfish growthing regions, and counties in Massachusetts. These maps demonstrate the following skills:
+# Map of Massachusetts (Assignment 3)
+This assignment shows the point and polygon relationships of marine beaches, boat docking sites, shellfish growing regions, and counties in Massachusetts. These maps demonstrate the following skills:
 
 * Calculating and displaying relationships among point and polygon layers based on distance
 * Aggregating point data to a layer of polygons
@@ -62,9 +62,9 @@ This assignment displays data for transit and library accessibility in Philly. T
 * Displaying raster data on a map
 * Displaying multiple vector layers on the same map
 
-[![](thumbnails/philly map 1.PNG)](https://jnabayan.github.io/Final-Portfolio/fullsize/philly map 1.pdf){target="_blank"}
-
 [![](thumbnails/phillymap2.PNG)](https://jnabayan.github.io/Final-Portfolio/fullsize/phillymap2.pdf){target="_blank"}
+
+[![](thumbnails/philly map 1.PNG)](https://jnabayan.github.io/Final-Portfolio/fullsize/philly map 1.pdf){target="_blank"}
 
 [![](thumbnails/phillymap3.PNG)](https://jnabayan.github.io/Final-Portfolio/fullsize/phillymap3.pdf){target="_blank"}
 
@@ -75,7 +75,7 @@ This assignment displays data for transit and library accessibility in Philly. T
 [![](thumbnails/philly6.PNG)](https://jnabayan.github.io/Final-Portfolio/fullsize/philly6.pdf){target="_blank"}
 
 # Interactive Map (Assignment 6)
-This assignment displays an interactive map of the Black population in Los Angeles. This map demonstrates the following skill:
+This assignment displays an interactive map of Black people living in Los Angeles. This map demonstrates the following skill:
 
 * Displaying data on an interactive map
 
