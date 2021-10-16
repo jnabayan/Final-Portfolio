@@ -34,7 +34,7 @@ This map shows the relationship between Enterprise Zones and transit stops in Ch
 
 * Displaying multiple point and polygon layers on the same map
 
-[![](thumbnails/assignment1.png)](https://jnabayan.github.io/Final-Portfolio/fullsize/assignment1.pdf){target="_blank"}
+[![](thumbnails/assignment1.PNG)](https://jnabayan.github.io/Final-Portfolio/fullsize/assignment1.Pdf){target="_blank"}
 
 # ArcGIS Map (Assignment 2)
 The assignment to create a georeferenced map with a layer of points was undertaken with New York City. This map demonstrates the following skill: 
@@ -64,7 +64,7 @@ This assignment displays data for transit and library accessibility in Philly. T
 
 [![](thumbnails/phillymap2.PNG)](https://jnabayan.github.io/Final-Portfolio/fullsize/phillymap2.Pdf){target="_blank"}
 
-[![](thumbnails/philly map 1.PNG)](https://jnabayan.github.io/Final-Portfolio/fullsize/philly map 1.pdf){target="_blank"}
+[![](thumbnails/philly map 1.PNG)](https://jnabayan.github.io/Final-Portfolio/fullsize/philly map 1.Pdf){target="_blank"}
 
 [![](thumbnails/phillymap3.PNG)](https://jnabayan.github.io/Final-Portfolio/fullsize/phillymap3.Pdf){target="_blank"}
 
