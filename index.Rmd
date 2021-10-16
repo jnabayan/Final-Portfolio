@@ -49,9 +49,9 @@ This assignment shows the point and polygon relationships of marine beaches, boa
 * Calculating and displaying relationships among point and polygon layers based on distance
 * Aggregating point data to a layer of polygons
 
-[![](thumbnails/massmap1.PNG)](https://jnabayan.github.io/Final-Portfolio/fullsize/massmap1.pdf){target="_blank"}
+[![](thumbnails/massmap1.PNG)](https://jnabayan.github.io/Final-Portfolio/fullsize/massmap1.Pdf){target="_blank"}
 
-[![](thumbnails/massmap2.PNG)](https://jnabayan.github.io/Final-Portfolio/fullsize/massmap2.pdf){target="_blank"}
+[![](thumbnails/massmap2.PNG)](https://jnabayan.github.io/Final-Portfolio/fullsize/massmap2.Pdf){target="_blank"}
 
 # Maps of Philadelphia (Assignment 4/5)
 This assignment displays data for transit and library accessibility in Philly. These maps demonstrate the following skills:
@@ -62,15 +62,15 @@ This assignment displays data for transit and library accessibility in Philly. T
 * Displaying raster data on a map
 * Displaying multiple vector layers on the same map
 
-[![](thumbnails/phillymap2.PNG)](https://jnabayan.github.io/Final-Portfolio/fullsize/phillymap2.pdf){target="_blank"}
+[![](thumbnails/phillymap2.PNG)](https://jnabayan.github.io/Final-Portfolio/fullsize/phillymap2.Pdf){target="_blank"}
 
 [![](thumbnails/philly map 1.PNG)](https://jnabayan.github.io/Final-Portfolio/fullsize/philly map 1.pdf){target="_blank"}
 
-[![](thumbnails/phillymap3.PNG)](https://jnabayan.github.io/Final-Portfolio/fullsize/phillymap3.pdf){target="_blank"}
+[![](thumbnails/phillymap3.PNG)](https://jnabayan.github.io/Final-Portfolio/fullsize/phillymap3.Pdf){target="_blank"}
 
 [![](thumbnails/philly4.PNG)](https://jnabayan.github.io/Final-Portfolio/fullsize/philly4.pdf){target="_blank"}
 
-[![](thumbnails/philly5.PNG)](https://jnabayan.github.io/Final-Portfolio/fullsize/philly5.pdf){target="_blank"}
+[![](thumbnails/philly5.PNG)](https://jnabayan.github.io/Final-Portfolio/fullsize/philly5.Pdf){target="_blank"}
 
 [![](thumbnails/philly6.PNG)](https://jnabayan.github.io/Final-Portfolio/fullsize/philly6.pdf){target="_blank"}
 
