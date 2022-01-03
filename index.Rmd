@@ -41,7 +41,7 @@ The assignment to create a georeferenced map with a layer of points was undertak
 
 * Georeferencing a raster image
 
-[![](thumbnails/nycmap.png)](https://jnabayan.github.io/Final-Portfolio/fullsize/nycmap.pdf){target="_blank"}
+[![](thumbnails/NYC.png)](https://jnabayan.github.io/Final-Portfolio/fullsize/NYC.pdf){target="_blank"}
 
 # Map of Massachusetts (Assignment 3)
 This assignment shows the point and polygon relationships of marine beaches, boat docking sites, shellfish growing regions, and counties in Massachusetts. These maps demonstrate the following skills:
