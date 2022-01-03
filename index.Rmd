@@ -29,21 +29,21 @@ My portfolio demonstrates an understanding of the following skills taught during
 * Georeferencing a raster image
 * Displaying data on an interactive map
 
-# Map of Chicago (Assignment 1)
+# Map of Chicago 
 This map shows the relationship between Enterprise Zones and transit stops in Chicago. This map demonstrates the following skiil:
 
 * Displaying multiple point and polygon layers on the same map
 
 [![](thumbnails/assignment1.png)](https://jnabayan.github.io/Final-Portfolio/fullsize/assignment1.Pdf){target="_blank"}
 
-# ArcGIS Map (Assignment 2)
+# ArcGIS Map 
 The assignment to create a georeferenced map with a layer of points was undertaken with New York City. This map demonstrates the following skill: 
 
 * Georeferencing a raster image
 
 [![](thumbnails/NYC.png)](https://jnabayan.github.io/Final-Portfolio/fullsize/NYC.pdf){target="_blank"}
 
-# Map of Massachusetts (Assignment 3)
+# Map of Massachusetts 
 This assignment shows the point and polygon relationships of marine beaches, boat docking sites, shellfish growing regions, and counties in Massachusetts. These maps demonstrate the following skills:
 
 * Calculating and displaying relationships among point and polygon layers based on distance
@@ -53,7 +53,7 @@ This assignment shows the point and polygon relationships of marine beaches, boa
 
 [![](thumbnails/massmap2.PNG)](https://jnabayan.github.io/Final-Portfolio/fullsize/massmap2.Pdf){target="_blank"}
 
-# Maps of Philadelphia (Assignment 4/5)
+# Maps of Philadelphia 
 This assignment displays data for transit and library accessibility in Philly. These maps demonstrate the following skills:
 
 * Aggregating point data to a layer of polygons
@@ -74,7 +74,7 @@ This assignment displays data for transit and library accessibility in Philly. T
 
 [![](thumbnails/philly6.PNG)](https://jnabayan.github.io/Final-Portfolio/fullsize/philly6.pdf){target="_blank"}
 
-# Interactive Map (Assignment 6)
+# Interactive Map 
 This assignment displays an interactive map of Black people living in Los Angeles. This map demonstrates the following skill:
 
 * Displaying data on an interactive map
